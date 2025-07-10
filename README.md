@@ -41,10 +41,3 @@ Offensive Hacking ░ ████████░░░
 Creative OS Design ░ ███████░░░
 Technical Branding ░ ██████░░░░
 
----
-
-###<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diaaxyz&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diaaxyz&layout=compact&theme=radical" />
-</p>
-
